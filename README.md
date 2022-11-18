@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=JAVA&logoColor=white"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeepblackeyes%2Fhit-counter&count_bg=%2356ACF9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
